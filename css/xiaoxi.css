@@ -47,13 +47,14 @@ ul,li{
 	letter-spacing: 0.2em;
 }
 .riqi select{
-	width: 190px;
+	width: 25%;
 	height: 78px;
 	line-height: 78px;
 	font-size: 24px;
 	background: #ececec;
 	text-align: center;
 	border-radius:40px; 
+	border:none;
 }
 .riqi select option{
 	text-align: center;
